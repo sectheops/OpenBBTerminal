@@ -104,7 +104,7 @@ yahooquery = "^2.3.0"
 openai-whisper = { version = "^20230124", optional = true }
 setuptools-rust = { version = "^1.5.2", optional = true }
 transformers = { version = "4.27.1", optional = true }
-yt-dlp = { version = "^2023.2.17", optional = true }
+yt-dlp = { version = "^2024.4.9", optional = true }
 pydantic = "<2"
 posthog = "^3.0.1"
 reportlab = "<4"                                                      #Pinning due to build error on MacOs
